@@ -2,7 +2,7 @@
   "Drink": [
     {
       "id": 0,
-      "name": "",
+      "drink_name": "",
       "image_url": "",
       "description": "",
       "size": "",
@@ -14,18 +14,18 @@
       "ingredients": [],
       "ofAge": true,
       "item_located_at": [
-        {
-          "walmart": "",
-          "amazon": "",
-          "ebay": "",
-          "vivino": "",
-          "beer cartel": ""
-        }
+          {
+              "walmart": "",
+              "amazon": "",
+              "ebay": "",
+              "vivino": "",
+              "beer cartel": ""
+          }
       ]
     },
     {
       "id": 1,
-      "name": "",
+      "drink_name": "",
       "image_url": "",
       "description": "",
       "size": "",
@@ -37,18 +37,18 @@
       "ingredients": [],
       "ofAge": true,
       "item_located_at": [
-        {
-          "walmart": "",
-          "amazon": "",
-          "ebay": "",
-          "vivino": "",
-          "beer cartel": ""
-        }
+          {
+              "walmart": "",
+              "amazon": "",
+              "ebay": "",
+              "vivino": "",
+              "beer cartel": ""
+          }
       ]
     },
     {
       "id": 2,
-      "name": "",
+      "drink_name": "",
       "image_url": "",
       "description": "",
       "size": "",
@@ -60,18 +60,18 @@
       "ingredients": [],
       "ofAge": true,
       "item_located_at": [
-        {
-          "walmart": "",
-          "amazon": "",
-          "ebay": "",
-          "vivino": "",
-          "beer cartel": ""
-        }
+          {
+              "walmart": "",
+              "amazon": "",
+              "ebay": "",
+              "vivino": "",
+              "beer cartel": ""
+          }
       ]
     },
     {
       "id": 3,
-      "name": "",
+      "drink_name": "",
       "image_url": "",
       "description": "",
       "size": "",
@@ -83,18 +83,18 @@
       "ingredients": [],
       "ofAge": true,
       "item_located_at": [
-        {
-          "walmart": "",
-          "amazon": "",
-          "ebay": "",
-          "vivino": "",
-          "beer cartel": ""
-        }
+          {
+              "walmart": "",
+              "amazon": "",
+              "ebay": "",
+              "vivino": "",
+              "beer cartel": ""
+          }
       ]
     },
     {
       "id": 4,
-      "name": "",
+      "drink_name": "",
       "image_url": "",
       "description": "",
       "size": "",
@@ -106,18 +106,18 @@
       "ingredients": [],
       "ofAge": true,
       "item_located_at": [
-        {
-          "walmart": "",
-          "amazon": "",
-          "ebay": "",
-          "vivino": "",
-          "beer cartel": ""
-        }
+          {
+              "walmart": "",
+              "amazon": "",
+              "ebay": "",
+              "vivino": "",
+              "beer cartel": ""
+          }
       ]
     },
     {
       "id": 5,
-      "name": "",
+      "drink_name": "",
       "image_url": "",
       "description": "",
       "size": "",
@@ -129,18 +129,18 @@
       "ingredients": [],
       "ofAge": true,
       "item_located_at": [
-        {
-          "walmart": "",
-          "amazon": "",
-          "ebay": "",
-          "vivino": "",
-          "beer cartel": ""
-        }
+          {
+              "walmart": "",
+              "amazon": "",
+              "ebay": "",
+              "vivino": "",
+              "beer cartel": ""
+          }
       ]
     },
     {
       "id": 6,
-      "name": "",
+      "drink_name": "",
       "image_url": "",
       "description": "",
       "size": "",
@@ -152,18 +152,18 @@
       "ingredients": [],
       "ofAge": true,
       "item_located_at": [
-        {
-          "walmart": "",
-          "amazon": "",
-          "ebay": "",
-          "vivino": "",
-          "beer cartel": ""
-        }
+          {
+              "walmart": "",
+              "amazon": "",
+              "ebay": "",
+              "vivino": "",
+              "beer cartel": ""
+          }
       ]
     },
     {
       "id": 7,
-      "name": "",
+      "drink_name": "",
       "image_url": "",
       "description": "",
       "size": "",
@@ -175,18 +175,18 @@
       "ingredients": [],
       "ofAge": true,
       "item_located_at": [
-        {
-          "walmart": "",
-          "amazon": "",
-          "ebay": "",
-          "vivino": "",
-          "beer cartel": ""
-        }
+          {
+              "walmart": "",
+              "amazon": "",
+              "ebay": "",
+              "vivino": "",
+              "beer cartel": ""
+          }
       ]
     },
     {
       "id": 8,
-      "name": "",
+      "drink_name": "",
       "image_url": "",
       "description": "",
       "size": "",
@@ -198,18 +198,18 @@
       "ingredients": [],
       "ofAge": true,
       "item_located_at": [
-        {
-          "walmart": "",
-          "amazon": "",
-          "ebay": "",
-          "vivino": "",
-          "beer cartel": ""
-        }
+          {
+              "walmart": "",
+              "amazon": "",
+              "ebay": "",
+              "vivino": "",
+              "beer cartel": ""
+          }
       ]
     },
     {
       "id": 9,
-      "name": "",
+      "drink_name": "",
       "image_url": "",
       "description": "",
       "size": "",
@@ -221,18 +221,18 @@
       "ingredients": [],
       "ofAge": true,
       "item_located_at": [
-        {
-          "walmart": "",
-          "amazon": "",
-          "ebay": "",
-          "vivino": "",
-          "beer cartel": ""
-        }
+          {
+              "walmart": "",
+              "amazon": "",
+              "ebay": "",
+              "vivino": "",
+              "beer cartel": ""
+          }
       ]
     },
     {
       "id": 10,
-      "name": "",
+      "drink_name": "",
       "image_url": "",
       "description": "",
       "size": "",
@@ -244,18 +244,18 @@
       "ingredients": [],
       "ofAge": true,
       "item_located_at": [
-        {
-          "walmart": "",
-          "amazon": "",
-          "ebay": "",
-          "vivino": "",
-          "beer cartel": ""
-        }
+          {
+              "walmart": "",
+              "amazon": "",
+              "ebay": "",
+              "vivino": "",
+              "beer cartel": ""
+          }
       ]
     },
     {
       "id": 11,
-      "name": "",
+      "drink_name": "",
       "image_url": "",
       "description": "",
       "size": "",
@@ -267,18 +267,18 @@
       "ingredients": [],
       "ofAge": true,
       "item_located_at": [
-        {
-          "walmart": "",
-          "amazon": "",
-          "ebay": "",
-          "vivino": "",
-          "beer cartel": ""
-        }
+          {
+              "walmart": "",
+              "amazon": "",
+              "ebay": "",
+              "vivino": "",
+              "beer cartel": ""
+          }
       ]
     },
     {
       "id": 12,
-      "name": "",
+      "drink_name": "",
       "image_url": "",
       "description": "",
       "size": "",
@@ -290,18 +290,18 @@
       "ingredients": [],
       "ofAge": true,
       "item_located_at": [
-        {
-          "walmart": "",
-          "amazon": "",
-          "ebay": "",
-          "vivino": "",
-          "beer cartel": ""
-        }
+          {
+              "walmart": "",
+              "amazon": "",
+              "ebay": "",
+              "vivino": "",
+              "beer cartel": ""
+          }
       ]
     },
     {
       "id": 13,
-      "name": "",
+      "drink_name": "",
       "image_url": "",
       "description": "",
       "size": "",
@@ -313,18 +313,18 @@
       "ingredients": [],
       "ofAge": true,
       "item_located_at": [
-        {
-          "walmart": "",
-          "amazon": "",
-          "ebay": "",
-          "vivino": "",
-          "beer cartel": ""
-        }
+          {
+              "walmart": "",
+              "amazon": "",
+              "ebay": "",
+              "vivino": "",
+              "beer cartel": ""
+          }
       ]
     },
     {
       "id": 14,
-      "name": "",
+      "drink_name": "",
       "image_url": "",
       "description": "",
       "size": "",
@@ -336,18 +336,18 @@
       "ingredients": [],
       "ofAge": true,
       "item_located_at": [
-        {
-          "walmart": "",
-          "amazon": "",
-          "ebay": "",
-          "vivino": "",
-          "beer cartel": ""
-        }
+          {
+              "walmart": "",
+              "amazon": "",
+              "ebay": "",
+              "vivino": "",
+              "beer cartel": ""
+          }
       ]
     },
     {
       "id": 15,
-      "name": "",
+      "drink_name": "",
       "image_url": "",
       "description": "",
       "size": "",
@@ -359,18 +359,18 @@
       "ingredients": [],
       "ofAge": true,
       "item_located_at": [
-        {
-          "walmart": "",
-          "amazon": "",
-          "ebay": "",
-          "vivino": "",
-          "beer cartel": ""
-        }
+          {
+              "walmart": "",
+              "amazon": "",
+              "ebay": "",
+              "vivino": "",
+              "beer cartel": ""
+          }
       ]
     },
     {
       "id": 16,
-      "name": "",
+      "drink_name": "",
       "image_url": "",
       "description": "",
       "size": "",
@@ -382,18 +382,18 @@
       "ingredients": [],
       "ofAge": true,
       "item_located_at": [
-        {
-          "walmart": "",
-          "amazon": "",
-          "ebay": "",
-          "vivino": "",
-          "beer cartel": ""
-        }
+          {
+              "walmart": "",
+              "amazon": "",
+              "ebay": "",
+              "vivino": "",
+              "beer cartel": ""
+          }
       ]
     },
     {
       "id": 17,
-      "name": "",
+      "drink_name": "",
       "image_url": "",
       "description": "",
       "size": "",
@@ -405,18 +405,18 @@
       "ingredients": [],
       "ofAge": true,
       "item_located_at": [
-        {
-          "walmart": "",
-          "amazon": "",
-          "ebay": "",
-          "vivino": "",
-          "beer cartel": ""
-        }
+          {
+              "walmart": "",
+              "amazon": "",
+              "ebay": "",
+              "vivino": "",
+              "beer cartel": ""
+          }
       ]
     },
     {
       "id": 18,
-      "name": "",
+      "drink_name": "",
       "image_url": "",
       "description": "",
       "size": "",
@@ -428,18 +428,18 @@
       "ingredients": [],
       "ofAge": true,
       "item_located_at": [
-        {
-          "walmart": "",
-          "amazon": "",
-          "ebay": "",
-          "vivino": "",
-          "beer cartel": ""
-        }
+          {
+              "walmart": "",
+              "amazon": "",
+              "ebay": "",
+              "vivino": "",
+              "beer cartel": ""
+          }
       ]
     },
     {
       "id": 19,
-      "name": "",
+      "drink_name": "",
       "image_url": "",
       "description": "",
       "size": "",
@@ -451,18 +451,18 @@
       "ingredients": [],
       "ofAge": true,
       "item_located_at": [
-        {
-          "walmart": "",
-          "amazon": "",
-          "ebay": "",
-          "vivino": "",
-          "beer cartel": ""
-        }
+          {
+              "walmart": "",
+              "amazon": "",
+              "ebay": "",
+              "vivino": "",
+              "beer cartel": ""
+          }
       ]
     },
     {
       "id": 20,
-      "name": "",
+      "drink_name": "",
       "image_url": "",
       "description": "",
       "size": "",
@@ -474,18 +474,18 @@
       "ingredients": [],
       "ofAge": true,
       "item_located_at": [
-        {
-          "walmart": "",
-          "amazon": "",
-          "ebay": "",
-          "vivino": "",
-          "beer cartel": ""
-        }
+          {
+              "walmart": "",
+              "amazon": "",
+              "ebay": "",
+              "vivino": "",
+              "beer cartel": ""
+          }
       ]
     },
     {
       "id": 21,
-      "name": "",
+      "drink_name": "",
       "image_url": "",
       "description": "",
       "size": "",
@@ -497,18 +497,18 @@
       "ingredients": [],
       "ofAge": true,
       "item_located_at": [
-        {
-          "walmart": "",
-          "amazon": "",
-          "ebay": "",
-          "vivino": "",
-          "beer cartel": ""
-        }
+          {
+              "walmart": "",
+              "amazon": "",
+              "ebay": "",
+              "vivino": "",
+              "beer cartel": ""
+          }
       ]
     },
     {
-      "id": 22,
-      "name": "",
+      "id":22,
+      "drink_name": "",
       "image_url": "",
       "description": "",
       "size": "",
@@ -520,18 +520,18 @@
       "ingredients": [],
       "ofAge": true,
       "item_located_at": [
-        {
-          "walmart": "",
-          "amazon": "",
-          "ebay": "",
-          "vivino": "",
-          "beer cartel": ""
-        }
+          {
+              "walmart": "",
+              "amazon": "",
+              "ebay": "",
+              "vivino": "",
+              "beer cartel": ""
+          }
       ]
     },
     {
       "id": 23,
-      "name": "",
+      "drink_name": "",
       "image_url": "",
       "description": "",
       "size": "",
@@ -543,18 +543,18 @@
       "ingredients": [],
       "ofAge": true,
       "item_located_at": [
-        {
-          "walmart": "",
-          "amazon": "",
-          "ebay": "",
-          "vivino": "",
-          "beer cartel": ""
-        }
+          {
+              "walmart": "",
+              "amazon": "",
+              "ebay": "",
+              "vivino": "",
+              "beer cartel": ""
+          }
       ]
     },
     {
       "id": 24,
-      "name": "",
+      "drink_name": "",
       "image_url": "",
       "description": "",
       "size": "",
@@ -566,18 +566,18 @@
       "ingredients": [],
       "ofAge": true,
       "item_located_at": [
-        {
-          "walmart": "",
-          "amazon": "",
-          "ebay": "",
-          "vivino": "",
-          "beer cartel": ""
-        }
+          {
+              "walmart": "",
+              "amazon": "",
+              "ebay": "",
+              "vivino": "",
+              "beer cartel": ""
+          }
       ]
     },
     {
       "id": 25,
-      "name": "",
+      "drink_name": "",
       "image_url": "",
       "description": "",
       "size": "",
@@ -589,18 +589,18 @@
       "ingredients": [],
       "ofAge": true,
       "item_located_at": [
-        {
-          "walmart": "",
-          "amazon": "",
-          "ebay": "",
-          "vivino": "",
-          "beer cartel": ""
-        }
+          {
+              "walmart": "",
+              "amazon": "",
+              "ebay": "",
+              "vivino": "",
+              "beer cartel": ""
+          }
       ]
     },
     {
       "id": 26,
-      "name": "",
+      "drink_name": "",
       "image_url": "",
       "description": "",
       "size": "",
@@ -612,18 +612,18 @@
       "ingredients": [],
       "ofAge": true,
       "item_located_at": [
-        {
-          "walmart": "",
-          "amazon": "",
-          "ebay": "",
-          "vivino": "",
-          "beer cartel": ""
-        }
+          {
+              "walmart": "",
+              "amazon": "",
+              "ebay": "",
+              "vivino": "",
+              "beer cartel": ""
+          }
       ]
     },
     {
       "id": 27,
-      "name": "",
+      "drink_name": "",
       "image_url": "",
       "description": "",
       "size": "",
@@ -635,18 +635,18 @@
       "ingredients": [],
       "ofAge": true,
       "item_located_at": [
-        {
-          "walmart": "",
-          "amazon": "",
-          "ebay": "",
-          "vivino": "",
-          "beer cartel": ""
-        }
+          {
+              "walmart": "",
+              "amazon": "",
+              "ebay": "",
+              "vivino": "",
+              "beer cartel": ""
+          }
       ]
     },
     {
       "id": 28,
-      "name": "",
+      "drink_name": "",
       "image_url": "",
       "description": "",
       "size": "",
@@ -658,18 +658,18 @@
       "ingredients": [],
       "ofAge": true,
       "item_located_at": [
-        {
-          "walmart": "",
-          "amazon": "",
-          "ebay": "",
-          "vivino": "",
-          "beer cartel": ""
-        }
+          {
+              "walmart": "",
+              "amazon": "",
+              "ebay": "",
+              "vivino": "",
+              "beer cartel": ""
+          }
       ]
     },
     {
       "id": 29,
-      "name": "",
+      "drink_name": "",
       "image_url": "",
       "description": "",
       "size": "",
@@ -681,18 +681,18 @@
       "ingredients": [],
       "ofAge": true,
       "item_located_at": [
-        {
-          "walmart": "",
-          "amazon": "",
-          "ebay": "",
-          "vivino": "",
-          "beer cartel": ""
-        }
+          {
+              "walmart": "",
+              "amazon": "",
+              "ebay": "",
+              "vivino": "",
+              "beer cartel": ""
+          }
       ]
     },
     {
       "id": 29,
-      "name": "",
+      "drink_name": "",
       "image_url": "",
       "description": "",
       "size": "",
@@ -704,18 +704,18 @@
       "ingredients": [],
       "ofAge": true,
       "item_located_at": [
-        {
-          "walmart": "",
-          "amazon": "",
-          "ebay": "",
-          "vivino": "",
-          "beer cartel": ""
-        }
+          {
+              "walmart": "",
+              "amazon": "",
+              "ebay": "",
+              "vivino": "",
+              "beer cartel": ""
+          }
       ]
     },
     {
       "id": 30,
-      "name": "",
+      "drink_name": "",
       "image_url": "",
       "description": "",
       "size": "",
@@ -727,18 +727,18 @@
       "ingredients": [],
       "ofAge": true,
       "item_located_at": [
-        {
-          "walmart": "",
-          "amazon": "",
-          "ebay": "",
-          "vivino": "",
-          "beer cartel": ""
-        }
+          {
+              "walmart": "",
+              "amazon": "",
+              "ebay": "",
+              "vivino": "",
+              "beer cartel": ""
+          }
       ]
     },
     {
       "id": 31,
-      "name": "",
+      "drink_name": "",
       "image_url": "",
       "description": "",
       "size": "",
@@ -750,18 +750,18 @@
       "ingredients": [],
       "ofAge": true,
       "item_located_at": [
-        {
-          "walmart": "",
-          "amazon": "",
-          "ebay": "",
-          "vivino": "",
-          "beer cartel": ""
-        }
+          {
+              "walmart": "",
+              "amazon": "",
+              "ebay": "",
+              "vivino": "",
+              "beer cartel": ""
+          }
       ]
     },
     {
       "id": 32,
-      "name": "",
+      "drink_name": "",
       "image_url": "",
       "description": "",
       "size": "",
@@ -773,18 +773,18 @@
       "ingredients": [],
       "ofAge": true,
       "item_located_at": [
-        {
-          "walmart": "",
-          "amazon": "",
-          "ebay": "",
-          "vivino": "",
-          "beer cartel": ""
-        }
+          {
+              "walmart": "",
+              "amazon": "",
+              "ebay": "",
+              "vivino": "",
+              "beer cartel": ""
+          }
       ]
     },
     {
       "id": 33,
-      "name": "",
+      "drink_name": "",
       "image_url": "",
       "description": "",
       "size": "",
@@ -796,18 +796,18 @@
       "ingredients": [],
       "ofAge": true,
       "item_located_at": [
-        {
-          "walmart": "",
-          "amazon": "",
-          "ebay": "",
-          "vivino": "",
-          "beer cartel": ""
-        }
+          {
+              "walmart": "",
+              "amazon": "",
+              "ebay": "",
+              "vivino": "",
+              "beer cartel": ""
+          }
       ]
     },
     {
       "id": 34,
-      "name": "",
+      "drink_name": "",
       "image_url": "",
       "description": "",
       "size": "",
@@ -819,18 +819,18 @@
       "ingredients": [],
       "ofAge": true,
       "item_located_at": [
-        {
-          "walmart": "",
-          "amazon": "",
-          "ebay": "",
-          "vivino": "",
-          "beer cartel": ""
-        }
+          {
+              "walmart": "",
+              "amazon": "",
+              "ebay": "",
+              "vivino": "",
+              "beer cartel": ""
+          }
       ]
     },
     {
       "id": 35,
-      "name": "",
+      "drink_name": "",
       "image_url": "",
       "description": "",
       "size": "",
@@ -842,18 +842,18 @@
       "ingredients": [],
       "ofAge": true,
       "item_located_at": [
-        {
-          "walmart": "",
-          "amazon": "",
-          "ebay": "",
-          "vivino": "",
-          "beer cartel": ""
-        }
+          {
+              "walmart": "",
+              "amazon": "",
+              "ebay": "",
+              "vivino": "",
+              "beer cartel": ""
+          }
       ]
     },
     {
       "id": 36,
-      "name": "",
+      "drink_name": "",
       "image_url": "",
       "description": "",
       "size": "",
@@ -865,18 +865,18 @@
       "ingredients": [],
       "ofAge": true,
       "item_located_at": [
-        {
-          "walmart": "",
-          "amazon": "",
-          "ebay": "",
-          "vivino": "",
-          "beer cartel": ""
-        }
+          {
+              "walmart": "",
+              "amazon": "",
+              "ebay": "",
+              "vivino": "",
+              "beer cartel": ""
+          }
       ]
     },
     {
       "id": 37,
-      "name": "",
+      "drink_name": "",
       "image_url": "",
       "description": "",
       "size": "",
@@ -888,13 +888,13 @@
       "ingredients": [],
       "ofAge": true,
       "item_located_at": [
-        {
-          "walmart": "",
-          "amazon": "",
-          "ebay": "",
-          "vivino": "",
-          "beer cartel": ""
-        }
+          {
+              "walmart": "",
+              "amazon": "",
+              "ebay": "",
+              "vivino": "",
+              "beer cartel": ""
+          }
       ]
     }
   ]
