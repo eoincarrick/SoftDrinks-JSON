@@ -2,900 +2,123 @@
   "Drink": [
     {
       "id": 0,
-      "drink_name": "Moet & Chandon Imperial",
-      "image_url": "https://images2.imgbox.com/62/70/gIaynrhz_o.jpg",
-      "description": "The bright acidity and red fruit zip of this bottle is offset by flavors of toasted nuts and baked bread thanks to the brand's mix of pinot noir and pinot meunier varietals in nearly equal portions. Pair it with a classic roast chicken to take your dinner party to a whole new level, or serve with dollops of fresh whipped cream and sliced stone fruit for an effortlessly decadent final course. ",
-      "size": "",
-      "price_range": "$",
-      "rating": "6/6",
-      "isSoftDrink": true,
-      "isHardDrink": false,
-      "weight": "",
-      "ingredients": [],
-      "ofAge": true,
-      "item_located_at": [
-        {
-          "walmart": "",
-          "amazon": "",
-          "ebay": "",
-          "vivino": "",
-          "beer cartel": ""
-        }
-      ]
+      "alphabet": "A",
+      "drink_name": "Adami Prosecco Bosco di Gicaal",
+      "image_url": "https://images2.imgbox.com/9e/f8/dDvqKvgm_o.jpg",
+      "description": "Adami's Bosco di Gica is made predominantly from Glera grapes, with 3-5% Chardonnay; and has notes of apple, peach, blossom and a hint of spice. This is perfect as an aperitif, but can also stand up to light dishes.",
+      "full_description": "Prosecco Bosco di Gica is produced in the Adami family business , which since 1920 , after the purchase of a vineyard from Count Balbi Valier. This vineyard gave fruit to a bond that has never been dissolved: in fact, the first Prosecco of a long tradition was produced. After about ten years Abele had an intuition to separate this vineyard from all the others, due to its peculiar characteristics and attachment; the result was that this produced the first Cru of Valdobbiadene . Today the company produces only Prosecco DOC Treviso and Valdobbiadene DOCG , and in its various facets and types it produces both traditional and particular wines based on the diversity and characteristics of each single hill. The Adami Valdobbiadene DOCG Bosco di Gica Brut is produced in the area where the first family vineyards were grown , in a small grove formerly called Bosco di Gica , from 97% glera grapes and a minority of chardonnay grapes . In a soil with a dry and calcareous clayey soil , the grapes are harvested between September 20 and October 10 and brought, after soft pressing with pneumatic presses, to static decantation. It is fermented at a controlled temperature between 17 ° C and 19 ° C with selected yeasts. After three months of agingthe most important and delicate part that makes the difference in the production of the cellar's sparkling wines takes place on the noble lees in steel: the second fermentation . According to the Italian method in steel autoclaves, the sparkling process takes place at a temperature between 15 ° C and 17 ° C with tartaric stabilization at -4 ° C to avoid crystalline formations in the bottle. Before bottling, the sparkling wine is microfiltered to remove and separate the yeast cells from the final product. Particularly predisposed to evolutionit is recommended to drink it in the year following the harvest to enjoy it at its maximum freshness, however in the following years, if well preserved, it gains both olfactory and palate complexity with potential pleasant surprises.",
+      "alcohol percent": "11.00% by volume",
+      "size": "75cl",
+      "brand": "ADAMI",
+      "country": "Italy",
+      "region": "Veneto",
+      "style": "Brut",
+      "price_range": "$15-$40",
+      "rating": "4/6",
+      "isSoftDrink": false,
+      "isHardDrink": true,
+      "weight": null,
+      "ingredients": ["sulphites"],
+      "ofAge": "18+",
+      "item_store_located_at": {
+        "winex": "https://www.winex.com/",
+        "superiore": "https://www.superiore.de/en",
+        "adamispumanti": "https://www.adamispumanti.it/",
+        "vivino": "https://www.vivino.com/",
+        "xtrawine": "https://www.xtrawine.com/it/vini/adami-prosecco-bosco-di-gica-brut/p3613",
+        "meinlamgraben": "https://www.meinlamgraben.eu/shop/en/"
+      },
+      "disclaimer": "While we endeavour to provide full and accurate information on our website, there may be occasions where producers have updated their recipe or failed to provide full details of their ingredients and processes. This may affect factors including the product style and allergen information, and we would advise that you always check the label and not solely rely on the information presented here. If you are at all uncertain about a product then please contact our customer service team before purchase."
     },
     {
       "id": 1,
-      "drink_name": "Bollinger Brut Special Cuvee",
-      "image_url": "https://images2.imgbox.com/44/9e/xnjZrFPb_o.jpg",
-      "description": "007 may be British, but his go-to bubbly is decidedly French. In addition to being the official champagne brand of James Bond, this bottle boasts complex notes of stonefruit and sultry spice that make it an ideal partner for seafood courses, cheese plates—even festive turkey dinner.",
-      "size": "",
-      "price_range": "$",
-      "rating": "6/6",
-      "isSoftDrink": true,
-      "isHardDrink": false,
-      "weight": "",
-      "ingredients": [],
-      "ofAge": true,
-      "item_located_at": [
-        {
-          "walmart": "",
-          "amazon": "",
-          "ebay": "",
-          "vivino": "",
-          "beer cartel": ""
-        }
-      ]
+      "alphabet": "A",
+      "drink_name": "Adami Prosecco Bosco di Gica Magnum",
+      "image_url": "https://images2.imgbox.com/47/0f/bFyz8DSs_o.jpg",
+      "description": "A magnum of Adami's Bosco di Gica. This is made predominantly from Glera grapes, with 3-5% Chardonnay; and has notes of apple, peach, blossom and a hint of spice. This is perfect as an aperitif, but can also stand up to light dishes.",
+      "full_description": "Adami Prosecco Bosco di Gica Magnum is produced in the Adami family business , which since 1920 , after the purchase of a vineyard from Count Balbi Valier. This vineyard gave fruit to a bond that has never been dissolved: in fact, the first Prosecco of a long tradition was produced. After about ten years Abele had an intuition to separate this vineyard from all the others, due to its peculiar characteristics and attachment; the result was that this produced the first Cru of Valdobbiadene . Today the company produces only Prosecco DOC Treviso and Valdobbiadene DOCG , and in its various facets and types it produces both traditional and particular wines based on the diversity and characteristics of each single hill. The Adami Valdobbiadene DOCG Bosco di Gica Brut is produced in the area where the first family vineyards were grown , in a small grove formerly called Bosco di Gica , from 97% glera grapes and a minority of chardonnay grapes . In a soil with a dry and calcareous clayey soil , the grapes are harvested between September 20 and October 10 and brought, after soft pressing with pneumatic presses, to static decantation. It is fermented at a controlled temperature between 17 ° C and 19 ° C with selected yeasts. After three months of agingthe most important and delicate part that makes the difference in the production of the cellar's sparkling wines takes place on the noble lees in steel: the second fermentation . According to the Italian method in steel autoclaves, the sparkling process takes place at a temperature between 15 ° C and 17 ° C with tartaric stabilization at -4 ° C to avoid crystalline formations in the bottle. Before bottling, the sparkling wine is microfiltered to remove and separate the yeast cells from the final product. Particularly predisposed to evolutionit is recommended to drink it in the year following the harvest to enjoy it at its maximum freshness, however in the following years, if well preserved, it gains both olfactory and palate complexity with potential pleasant surprises.",
+      "alcohol percent": "11.00% by volume",
+      "size": "150cl ",
+      "brand": "ADAMI",
+      "country": "Italy",
+      "region": "Veneto",
+      "style": "Brut",
+      "price_range": "$15-$40",
+      "rating": "4/6",
+      "isSoftDrink": false,
+      "isHardDrink": true,
+      "weight": null,
+      "ingredients": ["sulphites"],
+      "ofAge": "18+",
+      "item_store_located_at": {
+        "winex": "https://www.winex.com/",
+        "superiore": "https://www.superiore.de/en",
+        "adamispumanti": "https://www.adamispumanti.it/",
+        "vivino": "https://www.vivino.com/",
+        "xtrawine": "https://www.xtrawine.com/it/vini/adami-prosecco-bosco-di-gica-brut/p3613",
+        "meinlamgraben": "https://www.meinlamgraben.eu/shop/en/"
+      },
+      "disclaimer": "While we endeavour to provide full and accurate information on our website, there may be occasions where producers have updated their recipe or failed to provide full details of their ingredients and processes. This may affect factors including the product style and allergen information, and we would advise that you always check the label and not solely rely on the information presented here. If you are at all uncertain about a product then please contact our customer service team before purchase."
     },
     {
       "id": 2,
-      "drink_name": "",
-      "image_url": "",
-      "description": "",
-      "size": "",
-      "price_range": "$",
-      "rating": "6/6",
-      "isSoftDrink": true,
-      "isHardDrink": false,
-      "weight": "",
-      "ingredients": [],
-      "ofAge": true,
-      "item_located_at": [
-        {
-          "walmart": "",
-          "amazon": "",
-          "ebay": "",
-          "vivino": "",
-          "beer cartel": ""
-        }
-      ]
+      "alphabet": "A",
+      "drink_name": "Adami Bosco di Gica Prosecco Half-Bottle",
+      "image_url": "https://images2.imgbox.com/c8/51/oFbpIkwh_o.jpg",
+      "description": "A half bottle of Adami's Bosco di Gica. This is made predominantly from Glera grapes, with 3-5% Chardonnay; and has notes of apple, peach, blossom and a hint of spice. This is perfect as an aperitif, but can also stand up to light dishes.",
+      "full_description": "Adami Bosco di Gica Prosecco Half-Bottle is produced in the Adami family business , which since 1920 , after the purchase of a vineyard from Count Balbi Valier. This vineyard gave fruit to a bond that has never been dissolved: in fact, the first Prosecco of a long tradition was produced. After about ten years Abele had an intuition to separate this vineyard from all the others, due to its peculiar characteristics and attachment; the result was that this produced the first Cru of Valdobbiadene . Today the company produces only Prosecco DOC Treviso and Valdobbiadene DOCG , and in its various facets and types it produces both traditional and particular wines based on the diversity and characteristics of each single hill. The Adami Valdobbiadene DOCG Bosco di Gica Brut is produced in the area where the first family vineyards were grown , in a small grove formerly called Bosco di Gica , from 97% glera grapes and a minority of chardonnay grapes . In a soil with a dry and calcareous clayey soil , the grapes are harvested between September 20 and October 10 and brought, after soft pressing with pneumatic presses, to static decantation. It is fermented at a controlled temperature between 17 ° C and 19 ° C with selected yeasts. After three months of agingthe most important and delicate part that makes the difference in the production of the cellar's sparkling wines takes place on the noble lees in steel: the second fermentation . According to the Italian method in steel autoclaves, the sparkling process takes place at a temperature between 15 ° C and 17 ° C with tartaric stabilization at -4 ° C to avoid crystalline formations in the bottle. Before bottling, the sparkling wine is microfiltered to remove and separate the yeast cells from the final product. Particularly predisposed to evolutionit is recommended to drink it in the year following the harvest to enjoy it at its maximum freshness, however in the following years, if well preserved, it gains both olfactory and palate complexity with potential pleasant surprises.",
+      "alcohol percent": "11.00% by volume",
+      "size": "37.5cl ",
+      "brand": "ADAMI",
+      "country": "Italy",
+      "region": "Veneto",
+      "style": "Brut",
+      "price_range": "$15-$40",
+      "rating": "4/6",
+      "isSoftDrink": false,
+      "isHardDrink": true,
+      "weight": null,
+      "ingredients": ["sulphites"],
+      "ofAge": "18+",
+      "item_store_located_at": {
+        "winex": "https://www.winex.com/",
+        "superiore": "https://www.superiore.de/en",
+        "adamispumanti": "https://www.adamispumanti.it/",
+        "vivino": "https://www.vivino.com/",
+        "xtrawine": "https://www.xtrawine.com/it/vini/adami-prosecco-bosco-di-gica-brut/p3613",
+        "meinlamgraben": "https://www.meinlamgraben.eu/shop/en/"
+      },
+      "disclaimer": "While we endeavour to provide full and accurate information on our website, there may be occasions where producers have updated their recipe or failed to provide full details of their ingredients and processes. This may affect factors including the product style and allergen information, and we would advise that you always check the label and not solely rely on the information presented here. If you are at all uncertain about a product then please contact our customer service team before purchase."
     },
     {
       "id": 3,
-      "drink_name": "",
-      "image_url": "",
-      "description": "",
-      "size": "",
-      "price_range": "$",
-      "rating": "6/6",
-      "isSoftDrink": true,
-      "isHardDrink": false,
-      "weight": "",
-      "ingredients": [],
-      "ofAge": true,
-      "item_located_at": [
-        {
-          "walmart": "",
-          "amazon": "",
-          "ebay": "",
-          "vivino": "",
-          "beer cartel": ""
-        }
-      ]
-    },
-    {
-      "id": 4,
-      "drink_name": "",
-      "image_url": "",
-      "description": "",
-      "size": "",
-      "price_range": "$",
-      "rating": "6/6",
-      "isSoftDrink": true,
-      "isHardDrink": false,
-      "weight": "",
-      "ingredients": [],
-      "ofAge": true,
-      "item_located_at": [
-        {
-          "walmart": "",
-          "amazon": "",
-          "ebay": "",
-          "vivino": "",
-          "beer cartel": ""
-        }
-      ]
-    },
-    {
-      "id": 5,
-      "drink_name": "",
-      "image_url": "",
-      "description": "",
-      "size": "",
-      "price_range": "$",
-      "rating": "6/6",
-      "isSoftDrink": true,
-      "isHardDrink": false,
-      "weight": "",
-      "ingredients": [],
-      "ofAge": true,
-      "item_located_at": [
-        {
-          "walmart": "",
-          "amazon": "",
-          "ebay": "",
-          "vivino": "",
-          "beer cartel": ""
-        }
-      ]
-    },
-    {
-      "id": 6,
-      "drink_name": "",
-      "image_url": "",
-      "description": "",
-      "size": "",
-      "price_range": "$",
-      "rating": "6/6",
-      "isSoftDrink": true,
-      "isHardDrink": false,
-      "weight": "",
-      "ingredients": [],
-      "ofAge": true,
-      "item_located_at": [
-        {
-          "walmart": "",
-          "amazon": "",
-          "ebay": "",
-          "vivino": "",
-          "beer cartel": ""
-        }
-      ]
-    },
-    {
-      "id": 7,
-      "drink_name": "",
-      "image_url": "",
-      "description": "",
-      "size": "",
-      "price_range": "$",
-      "rating": "6/6",
-      "isSoftDrink": true,
-      "isHardDrink": false,
-      "weight": "",
-      "ingredients": [],
-      "ofAge": true,
-      "item_located_at": [
-        {
-          "walmart": "",
-          "amazon": "",
-          "ebay": "",
-          "vivino": "",
-          "beer cartel": ""
-        }
-      ]
-    },
-    {
-      "id": 8,
-      "drink_name": "",
-      "image_url": "",
-      "description": "",
-      "size": "",
-      "price_range": "$",
-      "rating": "6/6",
-      "isSoftDrink": true,
-      "isHardDrink": false,
-      "weight": "",
-      "ingredients": [],
-      "ofAge": true,
-      "item_located_at": [
-        {
-          "walmart": "",
-          "amazon": "",
-          "ebay": "",
-          "vivino": "",
-          "beer cartel": ""
-        }
-      ]
-    },
-    {
-      "id": 9,
-      "drink_name": "",
-      "image_url": "",
-      "description": "",
-      "size": "",
-      "price_range": "$",
-      "rating": "6/6",
-      "isSoftDrink": true,
-      "isHardDrink": false,
-      "weight": "",
-      "ingredients": [],
-      "ofAge": true,
-      "item_located_at": [
-        {
-          "walmart": "",
-          "amazon": "",
-          "ebay": "",
-          "vivino": "",
-          "beer cartel": ""
-        }
-      ]
-    },
-    {
-      "id": 10,
-      "drink_name": "",
-      "image_url": "",
-      "description": "",
-      "size": "",
-      "price_range": "$",
-      "rating": "6/6",
-      "isSoftDrink": true,
-      "isHardDrink": false,
-      "weight": "",
-      "ingredients": [],
-      "ofAge": true,
-      "item_located_at": [
-        {
-          "walmart": "",
-          "amazon": "",
-          "ebay": "",
-          "vivino": "",
-          "beer cartel": ""
-        }
-      ]
-    },
-    {
-      "id": 11,
-      "drink_name": "",
-      "image_url": "",
-      "description": "",
-      "size": "",
-      "price_range": "$",
-      "rating": "6/6",
-      "isSoftDrink": true,
-      "isHardDrink": false,
-      "weight": "",
-      "ingredients": [],
-      "ofAge": true,
-      "item_located_at": [
-        {
-          "walmart": "",
-          "amazon": "",
-          "ebay": "",
-          "vivino": "",
-          "beer cartel": ""
-        }
-      ]
-    },
-    {
-      "id": 12,
-      "drink_name": "",
-      "image_url": "",
-      "description": "",
-      "size": "",
-      "price_range": "$",
-      "rating": "6/6",
-      "isSoftDrink": true,
-      "isHardDrink": false,
-      "weight": "",
-      "ingredients": [],
-      "ofAge": true,
-      "item_located_at": [
-        {
-          "walmart": "",
-          "amazon": "",
-          "ebay": "",
-          "vivino": "",
-          "beer cartel": ""
-        }
-      ]
-    },
-    {
-      "id": 13,
-      "drink_name": "",
-      "image_url": "",
-      "description": "",
-      "size": "",
-      "price_range": "$",
-      "rating": "6/6",
-      "isSoftDrink": true,
-      "isHardDrink": false,
-      "weight": "",
-      "ingredients": [],
-      "ofAge": true,
-      "item_located_at": [
-        {
-          "walmart": "",
-          "amazon": "",
-          "ebay": "",
-          "vivino": "",
-          "beer cartel": ""
-        }
-      ]
-    },
-    {
-      "id": 14,
-      "drink_name": "",
-      "image_url": "",
-      "description": "",
-      "size": "",
-      "price_range": "$",
-      "rating": "6/6",
-      "isSoftDrink": true,
-      "isHardDrink": false,
-      "weight": "",
-      "ingredients": [],
-      "ofAge": true,
-      "item_located_at": [
-        {
-          "walmart": "",
-          "amazon": "",
-          "ebay": "",
-          "vivino": "",
-          "beer cartel": ""
-        }
-      ]
-    },
-    {
-      "id": 15,
-      "drink_name": "",
-      "image_url": "",
-      "description": "",
-      "size": "",
-      "price_range": "$",
-      "rating": "6/6",
-      "isSoftDrink": true,
-      "isHardDrink": false,
-      "weight": "",
-      "ingredients": [],
-      "ofAge": true,
-      "item_located_at": [
-        {
-          "walmart": "",
-          "amazon": "",
-          "ebay": "",
-          "vivino": "",
-          "beer cartel": ""
-        }
-      ]
-    },
-    {
-      "id": 16,
-      "drink_name": "",
-      "image_url": "",
-      "description": "",
-      "size": "",
-      "price_range": "$",
-      "rating": "6/6",
-      "isSoftDrink": true,
-      "isHardDrink": false,
-      "weight": "",
-      "ingredients": [],
-      "ofAge": true,
-      "item_located_at": [
-        {
-          "walmart": "",
-          "amazon": "",
-          "ebay": "",
-          "vivino": "",
-          "beer cartel": ""
-        }
-      ]
-    },
-    {
-      "id": 17,
-      "drink_name": "",
-      "image_url": "",
-      "description": "",
-      "size": "",
-      "price_range": "$",
-      "rating": "6/6",
-      "isSoftDrink": true,
-      "isHardDrink": false,
-      "weight": "",
-      "ingredients": [],
-      "ofAge": true,
-      "item_located_at": [
-        {
-          "walmart": "",
-          "amazon": "",
-          "ebay": "",
-          "vivino": "",
-          "beer cartel": ""
-        }
-      ]
-    },
-    {
-      "id": 18,
-      "drink_name": "",
-      "image_url": "",
-      "description": "",
-      "size": "",
-      "price_range": "$",
-      "rating": "6/6",
-      "isSoftDrink": true,
-      "isHardDrink": false,
-      "weight": "",
-      "ingredients": [],
-      "ofAge": true,
-      "item_located_at": [
-        {
-          "walmart": "",
-          "amazon": "",
-          "ebay": "",
-          "vivino": "",
-          "beer cartel": ""
-        }
-      ]
-    },
-    {
-      "id": 19,
-      "drink_name": "",
-      "image_url": "",
-      "description": "",
-      "size": "",
-      "price_range": "$",
-      "rating": "6/6",
-      "isSoftDrink": true,
-      "isHardDrink": false,
-      "weight": "",
-      "ingredients": [],
-      "ofAge": true,
-      "item_located_at": [
-        {
-          "walmart": "",
-          "amazon": "",
-          "ebay": "",
-          "vivino": "",
-          "beer cartel": ""
-        }
-      ]
-    },
-    {
-      "id": 20,
-      "drink_name": "",
-      "image_url": "",
-      "description": "",
-      "size": "",
-      "price_range": "$",
-      "rating": "6/6",
-      "isSoftDrink": true,
-      "isHardDrink": false,
-      "weight": "",
-      "ingredients": [],
-      "ofAge": true,
-      "item_located_at": [
-        {
-          "walmart": "",
-          "amazon": "",
-          "ebay": "",
-          "vivino": "",
-          "beer cartel": ""
-        }
-      ]
-    },
-    {
-      "id": 21,
-      "drink_name": "",
-      "image_url": "",
-      "description": "",
-      "size": "",
-      "price_range": "$",
-      "rating": "6/6",
-      "isSoftDrink": true,
-      "isHardDrink": false,
-      "weight": "",
-      "ingredients": [],
-      "ofAge": true,
-      "item_located_at": [
-        {
-          "walmart": "",
-          "amazon": "",
-          "ebay": "",
-          "vivino": "",
-          "beer cartel": ""
-        }
-      ]
-    },
-    {
-      "id": 22,
-      "drink_name": "",
-      "image_url": "",
-      "description": "",
-      "size": "",
-      "price_range": "$",
-      "rating": "6/6",
-      "isSoftDrink": true,
-      "isHardDrink": false,
-      "weight": "",
-      "ingredients": [],
-      "ofAge": true,
-      "item_located_at": [
-        {
-          "walmart": "",
-          "amazon": "",
-          "ebay": "",
-          "vivino": "",
-          "beer cartel": ""
-        }
-      ]
-    },
-    {
-      "id": 23,
-      "drink_name": "",
-      "image_url": "",
-      "description": "",
-      "size": "",
-      "price_range": "$",
-      "rating": "6/6",
-      "isSoftDrink": true,
-      "isHardDrink": false,
-      "weight": "",
-      "ingredients": [],
-      "ofAge": true,
-      "item_located_at": [
-        {
-          "walmart": "",
-          "amazon": "",
-          "ebay": "",
-          "vivino": "",
-          "beer cartel": ""
-        }
-      ]
-    },
-    {
-      "id": 24,
-      "drink_name": "",
-      "image_url": "",
-      "description": "",
-      "size": "",
-      "price_range": "$",
-      "rating": "6/6",
-      "isSoftDrink": true,
-      "isHardDrink": false,
-      "weight": "",
-      "ingredients": [],
-      "ofAge": true,
-      "item_located_at": [
-        {
-          "walmart": "",
-          "amazon": "",
-          "ebay": "",
-          "vivino": "",
-          "beer cartel": ""
-        }
-      ]
-    },
-    {
-      "id": 25,
-      "drink_name": "",
-      "image_url": "",
-      "description": "",
-      "size": "",
-      "price_range": "$",
-      "rating": "6/6",
-      "isSoftDrink": true,
-      "isHardDrink": false,
-      "weight": "",
-      "ingredients": [],
-      "ofAge": true,
-      "item_located_at": [
-        {
-          "walmart": "",
-          "amazon": "",
-          "ebay": "",
-          "vivino": "",
-          "beer cartel": ""
-        }
-      ]
-    },
-    {
-      "id": 26,
-      "drink_name": "",
-      "image_url": "",
-      "description": "",
-      "size": "",
-      "price_range": "$",
-      "rating": "6/6",
-      "isSoftDrink": true,
-      "isHardDrink": false,
-      "weight": "",
-      "ingredients": [],
-      "ofAge": true,
-      "item_located_at": [
-        {
-          "walmart": "",
-          "amazon": "",
-          "ebay": "",
-          "vivino": "",
-          "beer cartel": ""
-        }
-      ]
-    },
-    {
-      "id": 27,
-      "drink_name": "",
-      "image_url": "",
-      "description": "",
-      "size": "",
-      "price_range": "$",
-      "rating": "6/6",
-      "isSoftDrink": true,
-      "isHardDrink": false,
-      "weight": "",
-      "ingredients": [],
-      "ofAge": true,
-      "item_located_at": [
-        {
-          "walmart": "",
-          "amazon": "",
-          "ebay": "",
-          "vivino": "",
-          "beer cartel": ""
-        }
-      ]
-    },
-    {
-      "id": 28,
-      "drink_name": "",
-      "image_url": "",
-      "description": "",
-      "size": "",
-      "price_range": "$",
-      "rating": "6/6",
-      "isSoftDrink": true,
-      "isHardDrink": false,
-      "weight": "",
-      "ingredients": [],
-      "ofAge": true,
-      "item_located_at": [
-        {
-          "walmart": "",
-          "amazon": "",
-          "ebay": "",
-          "vivino": "",
-          "beer cartel": ""
-        }
-      ]
-    },
-    {
-      "id": 29,
-      "drink_name": "",
-      "image_url": "",
-      "description": "",
-      "size": "",
-      "price_range": "$",
-      "rating": "6/6",
-      "isSoftDrink": true,
-      "isHardDrink": false,
-      "weight": "",
-      "ingredients": [],
-      "ofAge": true,
-      "item_located_at": [
-        {
-          "walmart": "",
-          "amazon": "",
-          "ebay": "",
-          "vivino": "",
-          "beer cartel": ""
-        }
-      ]
-    },
-    {
-      "id": 29,
-      "drink_name": "",
-      "image_url": "",
-      "description": "",
-      "size": "",
-      "price_range": "$",
-      "rating": "6/6",
-      "isSoftDrink": true,
-      "isHardDrink": false,
-      "weight": "",
-      "ingredients": [],
-      "ofAge": true,
-      "item_located_at": [
-        {
-          "walmart": "",
-          "amazon": "",
-          "ebay": "",
-          "vivino": "",
-          "beer cartel": ""
-        }
-      ]
-    },
-    {
-      "id": 30,
-      "drink_name": "",
-      "image_url": "",
-      "description": "",
-      "size": "",
-      "price_range": "$",
-      "rating": "6/6",
-      "isSoftDrink": true,
-      "isHardDrink": false,
-      "weight": "",
-      "ingredients": [],
-      "ofAge": true,
-      "item_located_at": [
-        {
-          "walmart": "",
-          "amazon": "",
-          "ebay": "",
-          "vivino": "",
-          "beer cartel": ""
-        }
-      ]
-    },
-    {
-      "id": 31,
-      "drink_name": "",
-      "image_url": "",
-      "description": "",
-      "size": "",
-      "price_range": "$",
-      "rating": "6/6",
-      "isSoftDrink": true,
-      "isHardDrink": false,
-      "weight": "",
-      "ingredients": [],
-      "ofAge": true,
-      "item_located_at": [
-        {
-          "walmart": "",
-          "amazon": "",
-          "ebay": "",
-          "vivino": "",
-          "beer cartel": ""
-        }
-      ]
-    },
-    {
-      "id": 32,
-      "drink_name": "",
-      "image_url": "",
-      "description": "",
-      "size": "",
-      "price_range": "$",
-      "rating": "6/6",
-      "isSoftDrink": true,
-      "isHardDrink": false,
-      "weight": "",
-      "ingredients": [],
-      "ofAge": true,
-      "item_located_at": [
-        {
-          "walmart": "",
-          "amazon": "",
-          "ebay": "",
-          "vivino": "",
-          "beer cartel": ""
-        }
-      ]
-    },
-    {
-      "id": 33,
-      "drink_name": "",
-      "image_url": "",
-      "description": "",
-      "size": "",
-      "price_range": "$",
-      "rating": "6/6",
-      "isSoftDrink": true,
-      "isHardDrink": false,
-      "weight": "",
-      "ingredients": [],
-      "ofAge": true,
-      "item_located_at": [
-        {
-          "walmart": "",
-          "amazon": "",
-          "ebay": "",
-          "vivino": "",
-          "beer cartel": ""
-        }
-      ]
-    },
-    {
-      "id": 34,
-      "drink_name": "",
-      "image_url": "",
-      "description": "",
-      "size": "",
-      "price_range": "$",
-      "rating": "6/6",
-      "isSoftDrink": true,
-      "isHardDrink": false,
-      "weight": "",
-      "ingredients": [],
-      "ofAge": true,
-      "item_located_at": [
-        {
-          "walmart": "",
-          "amazon": "",
-          "ebay": "",
-          "vivino": "",
-          "beer cartel": ""
-        }
-      ]
-    },
-    {
-      "id": 35,
-      "drink_name": "",
-      "image_url": "",
-      "description": "",
-      "size": "",
-      "price_range": "$",
-      "rating": "6/6",
-      "isSoftDrink": true,
-      "isHardDrink": false,
-      "weight": "",
-      "ingredients": [],
-      "ofAge": true,
-      "item_located_at": [
-        {
-          "walmart": "",
-          "amazon": "",
-          "ebay": "",
-          "vivino": "",
-          "beer cartel": ""
-        }
-      ]
-    },
-    {
-      "id": 36,
-      "drink_name": "",
-      "image_url": "",
-      "description": "",
-      "size": "",
-      "price_range": "$",
-      "rating": "6/6",
-      "isSoftDrink": true,
-      "isHardDrink": false,
-      "weight": "",
-      "ingredients": [],
-      "ofAge": true,
-      "item_located_at": [
-        {
-          "walmart": "",
-          "amazon": "",
-          "ebay": "",
-          "vivino": "",
-          "beer cartel": ""
-        }
-      ]
-    },
-    {
-      "id": 37,
-      "drink_name": "",
-      "image_url": "",
-      "description": "",
-      "size": "",
-      "price_range": "$",
-      "rating": "6/6",
-      "isSoftDrink": true,
-      "isHardDrink": false,
-      "weight": "",
-      "ingredients": [],
-      "ofAge": true,
-      "item_located_at": [
-        {
-          "walmart": "",
-          "amazon": "",
-          "ebay": "",
-          "vivino": "",
-          "beer cartel": ""
-        }
-      ]
+      "alphabet": "A",
+      "drink_name": "Adami Prosecco DOCG Col Fondo 2020",
+      "image_url": "https://images2.imgbox.com/47/0f/bFyz8DSs_o.jpg",
+      "description": "An elegant, herbal prosecco from Adami that offers notes of mint, black liquorice, eucalyptus and wild herbs. Try pairing this wine with pizza or bread and olive oil.",
+      "full_description": "Adami Bosco di Gica Prosecco Half-Bottle is produced in the Adami family business , which since 1920 , after the purchase of a vineyard from Count Balbi Valier. This vineyard gave fruit to a bond that has never been dissolved: in fact, the first Prosecco of a long tradition was produced. After about ten years Abele had an intuition to separate this vineyard from all the others, due to its peculiar characteristics and attachment; the result was that this produced the first Cru of Valdobbiadene . Today the company produces only Prosecco DOC Treviso and Valdobbiadene DOCG , and in its various facets and types it produces both traditional and particular wines based on the diversity and characteristics of each single hill. The Adami Valdobbiadene DOCG Bosco di Gica Brut is produced in the area where the first family vineyards were grown , in a small grove formerly called Bosco di Gica , from 97% glera grapes and a minority of chardonnay grapes . In a soil with a dry and calcareous clayey soil , the grapes are harvested between September 20 and October 10 and brought, after soft pressing with pneumatic presses, to static decantation. It is fermented at a controlled temperature between 17 ° C and 19 ° C with selected yeasts. After three months of agingthe most important and delicate part that makes the difference in the production of the cellar's sparkling wines takes place on the noble lees in steel: the second fermentation . According to the Italian method in steel autoclaves, the sparkling process takes place at a temperature between 15 ° C and 17 ° C with tartaric stabilization at -4 ° C to avoid crystalline formations in the bottle. Before bottling, the sparkling wine is microfiltered to remove and separate the yeast cells from the final product. Particularly predisposed to evolutionit is recommended to drink it in the year following the harvest to enjoy it at its maximum freshness, however in the following years, if well preserved, it gains both olfactory and palate complexity with potential pleasant surprises.",
+      "alcohol percent": "11.00% by volume",
+      "size": "37.5cl ",
+      "brand": "ADAMI",
+      "country": "Italy",
+      "region": "Veneto",
+      "style": "Brut",
+      "price_range": "$15-$40",
+      "rating": "4/6",
+      "isSoftDrink": false,
+      "isHardDrink": true,
+      "weight": null,
+      "ingredients": ["sulphites"],
+      "ofAge": "18+",
+      "item_store_located_at": {
+        "winex": "https://www.winex.com/",
+        "superiore": "https://www.superiore.de/en",
+        "adamispumanti": "https://www.adamispumanti.it/",
+        "vivino": "https://www.vivino.com/",
+        "xtrawine": "https://www.xtrawine.com/it/vini/adami-prosecco-bosco-di-gica-brut/p3613",
+        "meinlamgraben": "https://www.meinlamgraben.eu/shop/en/"
+      },
+      "disclaimer": "While we endeavour to provide full and accurate information on our website, there may be occasions where producers have updated their recipe or failed to provide full details of their ingredients and processes. This may affect factors including the product style and allergen information, and we would advise that you always check the label and not solely rely on the information presented here. If you are at all uncertain about a product then please contact our customer service team before purchase."
     }
   ]
 }
